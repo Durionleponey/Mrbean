@@ -16,3 +16,7 @@ robin = new pomme("robin");
 
 console.log(robin.sayHello());
 
+function caca(){
+    console.log("baltrou");
+    return robin;
+}
